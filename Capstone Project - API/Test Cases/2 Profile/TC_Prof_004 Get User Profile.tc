@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Prof_004 Get User Profile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e22d0fb6-9f2b-4268-8b04-7210c61c2065</testCaseGuid>
+</TestCaseEntity>

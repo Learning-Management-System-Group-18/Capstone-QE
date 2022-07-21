@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Cour_15_Get All Course By Category Id</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1c20513-c2ee-43e9-925b-398a7dd696fb</testCaseGuid>
+</TestCaseEntity>

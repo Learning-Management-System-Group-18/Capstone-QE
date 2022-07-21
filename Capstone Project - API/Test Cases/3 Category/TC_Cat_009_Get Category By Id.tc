@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Cat_009_Get Category By Id</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9a4acba-9b09-44f9-bea9-2eec12e0ebe4</testCaseGuid>
+</TestCaseEntity>

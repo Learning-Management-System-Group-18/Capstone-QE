@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_36_Get All Review By Course Id</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a8268efc-d383-49a6-940c-4f8984ff51b4</testCaseGuid>
+</TestCaseEntity>

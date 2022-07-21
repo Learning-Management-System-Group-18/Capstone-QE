@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_See Detail</name>
+   <tag></tag>
+   <elementGuidId>ef9b8945-d08d-40bf-a1a4-0d102b1c0757</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='submit'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5241504c-b7ca-4440-abb5-4aac242cae93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>46e4448e-cd81-4e9b-90ef-7ea71cf73633</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-seedetail</value>
+      <webElementGuid>db4827a4-57b5-4634-95e1-abba7f3dcea8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>See Detail</value>
+      <webElementGuid>fe363a3e-bbfc-40a4-aee7-284e43c00bfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;py-5&quot;]/div[@class=&quot;d-flex flex-wrap justify-content-center&quot;]/div[@class=&quot;col-3 mb-3 bg_neutral_4 card_popular_class mx-2 shadow-sm container&quot;]/div[@class=&quot;mt-4 text-center&quot;]/div[1]/button[@class=&quot;btn btn-seedetail&quot;]</value>
+      <webElementGuid>1cbd393c-882f-425d-8f3a-46beff75ccdc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[3]</value>
+      <webElementGuid>50be4145-e0e8-4582-b162-851f23aaa212</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div/div[3]/div[6]/div/button</value>
+      <webElementGuid>2e221721-5dec-4a87-83f3-3e882433faae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Javascript for Beginners'])[2]/following::button[1]</value>
+      <webElementGuid>4ee3fa65-0d07-4e3d-8932-1057e596b47b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='See Detail'])[2]/following::button[1]</value>
+      <webElementGuid>ec92e71f-4c5a-4cae-8caf-86c200eb7277</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Join Our Community'])[1]/preceding::button[1]</value>
+      <webElementGuid>28d0be6c-a617-4e58-9d27-1146dd107336</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Join our cummunity to get more insight and grow together'])[1]/preceding::button[1]</value>
+      <webElementGuid>1bf39334-c9b7-44cb-93bb-72c7b89b9cab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[6]/div/button</value>
+      <webElementGuid>7c174839-6ae0-4b19-9fdf-4cc1c33ae229</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'See Detail' or . = 'See Detail')]</value>
+      <webElementGuid>36eff105-a2e5-41a6-8be7-ab86980dacfd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
